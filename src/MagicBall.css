@@ -1,0 +1,16 @@
+.MagicBall-Text {
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.MagicBall {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
